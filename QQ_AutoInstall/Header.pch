@@ -1,0 +1,19 @@
+//
+//  Header.h
+//  qq
+//
+//  Created by Mac on 2018/11/30.
+//  Copyright © 2018 Mac. All rights reserved.
+//
+
+#ifndef Header_h
+#define Header_h
+#import <Foundation/Foundation.h>
+#import <Cocoa/Cocoa.h>
+#import "QQMessageRevokeEngine+hook.h"
+#import "RecallProcessor+hook.h"
+#import "BHMsgManager+hook.h"
+#import "JRSwizzle.h"
+#import "YYModel.h"
+#endif /* Header_h */
+

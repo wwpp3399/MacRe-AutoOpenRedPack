@@ -1,0 +1,6 @@
+framework module QQ_AutoInstall {
+  umbrella header "QQ_AutoInstall.h"
+
+  export *
+  module * { export * }
+}
